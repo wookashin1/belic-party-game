@@ -1,0 +1,1202 @@
+[
+  {
+    "word": "chair",
+    "category": "furniture",
+    "easy": "electric chair",
+    "easy_sim": 0.7919,
+    "medium": "couch",
+    "medium_sim": 0.5601,
+    "hard": "moderate",
+    "hard_sim": 0.2797
+  },
+  {
+    "word": "table",
+    "category": "furniture",
+    "easy": "tabular array",
+    "easy_sim": 0.5815,
+    "medium": "tablecloth",
+    "medium_sim": 0.5745,
+    "hard": "put over",
+    "hard_sim": 0.2196
+  },
+  {
+    "word": "lamp",
+    "category": "furniture",
+    "easy": "bulb",
+    "easy_sim": 0.7836,
+    "medium": "torch",
+    "medium_sim": 0.5663,
+    "hard": "wick",
+    "hard_sim": 0.2184
+  },
+  {
+    "word": "mirror",
+    "category": "object",
+    "easy": "reflected",
+    "easy_sim": 0.689,
+    "medium": "reflector",
+    "medium_sim": 0.5636,
+    "hard": "double",
+    "hard_sim": 0.2275
+  },
+  {
+    "word": "clock",
+    "category": "object",
+    "easy": "clockwork",
+    "easy_sim": 0.7937,
+    "medium": "alarm",
+    "medium_sim": 0.5569,
+    "hard": "impactor",
+    "hard_sim": 0.1833
+  },
+  {
+    "word": "phone",
+    "category": "device",
+    "easy": "cellphone",
+    "easy_sim": 0.8452,
+    "medium": "call",
+    "medium_sim": 0.5746,
+    "hard": "helpline",
+    "hard_sim": 0.2428
+  },
+  {
+    "word": "key",
+    "category": "object",
+    "easy": "key out",
+    "easy_sim": 0.7364,
+    "medium": "florida keys",
+    "medium_sim": 0.5605,
+    "hard": "of import",
+    "hard_sim": 0.2358
+  },
+  {
+    "word": "wallet",
+    "category": "accessory",
+    "easy": "purse",
+    "easy_sim": 0.6129,
+    "medium": "pocketbook",
+    "medium_sim": 0.5694,
+    "hard": "carter",
+    "hard_sim": 0.2241
+  },
+  {
+    "word": "umbrella",
+    "category": "accessory",
+    "easy": "windshield",
+    "easy_sim": 0.4685,
+    "medium": "windshield",
+    "medium_sim": 0.4685,
+    "hard": "parasol",
+    "hard_sim": 0.2657
+  },
+  {
+    "word": "candle",
+    "category": "object",
+    "easy": "candlelight",
+    "easy_sim": 0.8708,
+    "medium": "wax",
+    "medium_sim": 0.6034,
+    "hard": "struggle",
+    "hard_sim": 0.2279
+  },
+  {
+    "word": "pillow",
+    "category": "bedding",
+    "easy": "cushion",
+    "easy_sim": 0.6078,
+    "medium": "bed",
+    "medium_sim": 0.5397,
+    "hard": "kneeler",
+    "hard_sim": 0.2159
+  },
+  {
+    "word": "blanket",
+    "category": "bedding",
+    "easy": "cloth",
+    "easy_sim": 0.5737,
+    "medium": "cloth",
+    "medium_sim": 0.5737,
+    "hard": "panoptic",
+    "hard_sim": 0.2363
+  },
+  {
+    "word": "window",
+    "category": "architecture",
+    "easy": "windowpane",
+    "easy_sim": 0.7259,
+    "medium": "windowsill",
+    "medium_sim": 0.5498,
+    "hard": "louvered",
+    "hard_sim": 0.2146
+  },
+  {
+    "word": "door",
+    "category": "architecture",
+    "easy": "doorway",
+    "easy_sim": 0.7985,
+    "medium": "gate",
+    "medium_sim": 0.581,
+    "hard": "postern",
+    "hard_sim": 0.2039
+  },
+  {
+    "word": "stairs",
+    "category": "architecture",
+    "easy": "stairwell",
+    "easy_sim": 0.8423,
+    "medium": "ladders",
+    "medium_sim": 0.5649,
+    "hard": "fires",
+    "hard_sim": 0.2224
+  },
+  {
+    "word": "carpet",
+    "category": "furniture",
+    "easy": "carpeting",
+    "easy_sim": 0.8894,
+    "medium": "floor",
+    "medium_sim": 0.6083,
+    "hard": "wayside",
+    "hard_sim": 0.2127
+  },
+  {
+    "word": "bottle",
+    "category": "container",
+    "easy": "bottleful",
+    "easy_sim": 0.7034,
+    "medium": "liquor",
+    "medium_sim": 0.5817,
+    "hard": "hooch",
+    "hard_sim": 0.3187
+  },
+  {
+    "word": "bag",
+    "category": "container",
+    "easy": "old bag",
+    "easy_sim": 0.8,
+    "medium": "pocket",
+    "medium_sim": 0.5502,
+    "hard": "dish",
+    "hard_sim": 0.2498
+  },
+  {
+    "word": "knife",
+    "category": "tool",
+    "easy": "blade",
+    "easy_sim": 0.8024,
+    "medium": "dagger",
+    "medium_sim": 0.5818,
+    "hard": "snee",
+    "hard_sim": 0.2182
+  },
+  {
+    "word": "brush",
+    "category": "tool",
+    "easy": "brushing",
+    "easy_sim": 0.8585,
+    "medium": "brushwood",
+    "medium_sim": 0.6561,
+    "hard": "copse",
+    "hard_sim": 0.2378
+  },
+  {
+    "word": "mountain",
+    "category": "geography",
+    "easy": "mountaintop",
+    "easy_sim": 0.8108,
+    "medium": "volcano",
+    "medium_sim": 0.5653,
+    "hard": "riverbank",
+    "hard_sim": 0.2103
+  },
+  {
+    "word": "river",
+    "category": "geography",
+    "easy": "riverbank",
+    "easy_sim": 0.8242,
+    "medium": "catchment",
+    "medium_sim": 0.569,
+    "hard": "littoral",
+    "hard_sim": 0.2184
+  },
+  {
+    "word": "beach",
+    "category": "geography",
+    "easy": "seaside",
+    "easy_sim": 0.7272,
+    "medium": "waterfront",
+    "medium_sim": 0.5933,
+    "hard": "strand",
+    "hard_sim": 0.2435
+  },
+  {
+    "word": "forest",
+    "category": "nature",
+    "easy": "woods",
+    "easy_sim": 0.8166,
+    "medium": "woody",
+    "medium_sim": 0.5528,
+    "hard": "bosque",
+    "hard_sim": 0.2406
+  },
+  {
+    "word": "desert",
+    "category": "geography",
+    "easy": "desertion",
+    "easy_sim": 0.8064,
+    "medium": "wilderness",
+    "medium_sim": 0.5792,
+    "hard": "leave",
+    "hard_sim": 0.2265
+  },
+  {
+    "word": "island",
+    "category": "geography",
+    "easy": "isle",
+    "easy_sim": 0.6933,
+    "medium": "guam",
+    "medium_sim": 0.5498,
+    "hard": "insular",
+    "hard_sim": 0.2092
+  },
+  {
+    "word": "volcano",
+    "category": "geography",
+    "easy": "volcanic field",
+    "easy_sim": 0.8034,
+    "medium": "mountain",
+    "medium_sim": 0.5653,
+    "hard": "rash",
+    "hard_sim": 0.2214
+  },
+  {
+    "word": "cave",
+    "category": "geography",
+    "easy": "cavern",
+    "easy_sim": 0.7954,
+    "medium": "lair",
+    "medium_sim": 0.5787,
+    "hard": "atrium",
+    "hard_sim": 0.1988
+  },
+  {
+    "word": "lake",
+    "category": "geography",
+    "easy": "lakeshore",
+    "easy_sim": 0.7813,
+    "medium": "reservoir",
+    "medium_sim": 0.569,
+    "hard": "yellow",
+    "hard_sim": 0.227
+  },
+  {
+    "word": "valley",
+    "category": "geography",
+    "easy": "canyon",
+    "easy_sim": 0.6375,
+    "medium": "wadi",
+    "medium_sim": 0.5595,
+    "hard": "ebb",
+    "hard_sim": 0.2281
+  },
+  {
+    "word": "cliff",
+    "category": "geography",
+    "easy": "ravine",
+    "easy_sim": 0.5417,
+    "medium": "ravine",
+    "medium_sim": 0.5417,
+    "hard": "lorimer",
+    "hard_sim": 0.2109
+  },
+  {
+    "word": "waterfall",
+    "category": "nature",
+    "easy": "falls",
+    "easy_sim": 0.6936,
+    "medium": "falling",
+    "medium_sim": 0.5423,
+    "hard": "cataract",
+    "hard_sim": 0.2123
+  },
+  {
+    "word": "glacier",
+    "category": "nature",
+    "easy": "glacial",
+    "easy_sim": 0.7831,
+    "medium": "snow",
+    "medium_sim": 0.5746,
+    "hard": "meltdown",
+    "hard_sim": 0.2807
+  },
+  {
+    "word": "swamp",
+    "category": "nature",
+    "easy": "swampy",
+    "easy_sim": 0.8803,
+    "medium": "bog",
+    "medium_sim": 0.5654,
+    "hard": "quagmire",
+    "hard_sim": 0.2183
+  },
+  {
+    "word": "meadow",
+    "category": "nature",
+    "easy": "grassland",
+    "easy_sim": 0.6216,
+    "medium": "pasture",
+    "medium_sim": 0.5998,
+    "hard": "sweet",
+    "hard_sim": 0.2169
+  },
+  {
+    "word": "jungle",
+    "category": "nature",
+    "easy": "forest",
+    "easy_sim": 0.6262,
+    "medium": "rainforest",
+    "medium_sim": 0.6227,
+    "hard": "thicket",
+    "hard_sim": 0.2138
+  },
+  {
+    "word": "dune",
+    "category": "geography",
+    "easy": "sand dune",
+    "easy_sim": 0.8967,
+    "medium": "sand",
+    "medium_sim": 0.5958,
+    "hard": "danube",
+    "hard_sim": 0.219
+  },
+  {
+    "word": "storm",
+    "category": "weather",
+    "easy": "violent storm",
+    "easy_sim": 0.8093,
+    "medium": "blizzard",
+    "medium_sim": 0.531,
+    "hard": "ramp",
+    "hard_sim": 0.2221
+  },
+  {
+    "word": "fog",
+    "category": "weather",
+    "easy": "fogginess",
+    "easy_sim": 0.7867,
+    "medium": "smog",
+    "medium_sim": 0.5758,
+    "hard": "befog",
+    "hard_sim": 0.2123
+  },
+  {
+    "word": "rainbow",
+    "category": "weather",
+    "easy": "indigo",
+    "easy_sim": 0.554,
+    "medium": "indigo",
+    "medium_sim": 0.554,
+    "hard": "steelhead",
+    "hard_sim": 0.2414
+  },
+  {
+    "word": "doctor",
+    "category": "profession",
+    "easy": "physician",
+    "easy_sim": 0.8598,
+    "medium": "hospital",
+    "medium_sim": 0.5971,
+    "hard": "sophisticate",
+    "hard_sim": 0.211
+  },
+  {
+    "word": "teacher",
+    "category": "profession",
+    "easy": "schoolteacher",
+    "easy_sim": 0.8444,
+    "medium": "educational",
+    "medium_sim": 0.5675,
+    "hard": "counsellor",
+    "hard_sim": 0.3074
+  },
+  {
+    "word": "chef",
+    "category": "profession",
+    "easy": "cook",
+    "easy_sim": 0.7299,
+    "medium": "stove",
+    "medium_sim": 0.5542,
+    "hard": "head",
+    "hard_sim": 0.2224
+  },
+  {
+    "word": "pilot",
+    "category": "profession",
+    "easy": "pilotage",
+    "easy_sim": 0.7999,
+    "medium": "skipper",
+    "medium_sim": 0.5126,
+    "hard": "fender",
+    "hard_sim": 0.2222
+  },
+  {
+    "word": "soldier",
+    "category": "profession",
+    "easy": "troop",
+    "easy_sim": 0.7436,
+    "medium": "trooper",
+    "medium_sim": 0.5428,
+    "hard": "conscript",
+    "hard_sim": 0.2149
+  },
+  {
+    "word": "judge",
+    "category": "profession",
+    "easy": "judicial",
+    "easy_sim": 0.7478,
+    "medium": "tribunal",
+    "medium_sim": 0.5566,
+    "hard": "approximate",
+    "hard_sim": 0.2067
+  },
+  {
+    "word": "farmer",
+    "category": "profession",
+    "easy": "farm",
+    "easy_sim": 0.7753,
+    "medium": "rancher",
+    "medium_sim": 0.5704,
+    "hard": "sodbuster",
+    "hard_sim": 0.2239
+  },
+  {
+    "word": "painter",
+    "category": "profession",
+    "easy": "painting",
+    "easy_sim": 0.8466,
+    "medium": "designer",
+    "medium_sim": 0.5392,
+    "hard": "puma",
+    "hard_sim": 0.2218
+  },
+  {
+    "word": "sailor",
+    "category": "profession",
+    "easy": "sailor boy",
+    "easy_sim": 0.8741,
+    "medium": "boatman",
+    "medium_sim": 0.5698,
+    "hard": "straw hat",
+    "hard_sim": 0.2067
+  },
+  {
+    "word": "carpenter",
+    "category": "profession",
+    "easy": "woodworker",
+    "easy_sim": 0.6695,
+    "medium": "woodwork",
+    "medium_sim": 0.5677,
+    "hard": "charpentier",
+    "hard_sim": 0.1931
+  },
+  {
+    "word": "firefighter",
+    "category": "profession",
+    "easy": "fireperson",
+    "easy_sim": 0.7732,
+    "medium": "firetender",
+    "medium_sim": 0.5741,
+    "hard": "blow",
+    "hard_sim": 0.2263
+  },
+  {
+    "word": "librarian",
+    "category": "profession",
+    "easy": "library assistant",
+    "easy_sim": 0.7822,
+    "medium": "bibliographer",
+    "medium_sim": 0.5642,
+    "hard": "librarius",
+    "hard_sim": 0.2112
+  },
+  {
+    "word": "engineer",
+    "category": "profession",
+    "easy": "railroad engineer",
+    "easy_sim": 0.7347,
+    "medium": "contractor",
+    "medium_sim": 0.582,
+    "hard": "orchestrate",
+    "hard_sim": 0.2195
+  },
+  {
+    "word": "dentist",
+    "category": "profession",
+    "easy": "tooth doctor",
+    "easy_sim": 0.8526,
+    "medium": "toothdrawer",
+    "medium_sim": 0.5865,
+    "hard": "stomatologist",
+    "hard_sim": 0.3222
+  },
+  {
+    "word": "butcher",
+    "category": "profession",
+    "easy": "butchery",
+    "easy_sim": 0.8197,
+    "medium": "beef",
+    "medium_sim": 0.5502,
+    "hard": "bumbler",
+    "hard_sim": 0.2219
+  },
+  {
+    "word": "mechanic",
+    "category": "profession",
+    "easy": "automobile mechanic",
+    "easy_sim": 0.8405,
+    "medium": "technician",
+    "medium_sim": 0.5777,
+    "hard": "grease monkey",
+    "hard_sim": 0.1981
+  },
+  {
+    "word": "architect",
+    "category": "profession",
+    "easy": "architecture",
+    "easy_sim": 0.7429,
+    "medium": "construction",
+    "medium_sim": 0.5398,
+    "hard": "artisan",
+    "hard_sim": 0.279
+  },
+  {
+    "word": "journalist",
+    "category": "profession",
+    "easy": "journalism",
+    "easy_sim": 0.8586,
+    "medium": "photographer",
+    "medium_sim": 0.5784,
+    "hard": "supplier",
+    "hard_sim": 0.2518
+  },
+  {
+    "word": "detective",
+    "category": "profession",
+    "easy": "police detective",
+    "easy_sim": 0.9169,
+    "medium": "constable",
+    "medium_sim": 0.5919,
+    "hard": "sir",
+    "hard_sim": 0.2306
+  },
+  {
+    "word": "astronaut",
+    "category": "profession",
+    "easy": "astronautess",
+    "easy_sim": 0.8023,
+    "medium": "actornaut",
+    "medium_sim": 0.5779,
+    "hard": "corps",
+    "hard_sim": 0.2311
+  },
+  {
+    "word": "bread",
+    "category": "food",
+    "easy": "loaf",
+    "easy_sim": 0.827,
+    "medium": "toast",
+    "medium_sim": 0.5765,
+    "hard": "staff of life",
+    "hard_sim": 0.2406
+  },
+  {
+    "word": "cheese",
+    "category": "food",
+    "easy": "cheddar",
+    "easy_sim": 0.7028,
+    "medium": "sandwich",
+    "medium_sim": 0.5663,
+    "hard": "flan",
+    "hard_sim": 0.2285
+  },
+  {
+    "word": "soup",
+    "category": "food",
+    "easy": "meal",
+    "easy_sim": 0.5566,
+    "medium": "meal",
+    "medium_sim": 0.5566,
+    "hard": "maigre",
+    "hard_sim": 0.2199
+  },
+  {
+    "word": "cake",
+    "category": "food",
+    "easy": "cupcake",
+    "easy_sim": 0.6361,
+    "medium": "dessert",
+    "medium_sim": 0.5869,
+    "hard": "sundae",
+    "hard_sim": 0.2386
+  },
+  {
+    "word": "egg",
+    "category": "food",
+    "easy": "eggs",
+    "easy_sim": 0.9121,
+    "medium": "embryo",
+    "medium_sim": 0.5332,
+    "hard": "testis",
+    "hard_sim": 0.2461
+  },
+  {
+    "word": "rice",
+    "category": "food",
+    "easy": "grain",
+    "easy_sim": 0.6082,
+    "medium": "food",
+    "medium_sim": 0.5844,
+    "hard": "laughter",
+    "hard_sim": 0.2241
+  },
+  {
+    "word": "pasta",
+    "category": "food",
+    "easy": "spaghetti",
+    "easy_sim": 0.7988,
+    "medium": "noodle",
+    "medium_sim": 0.5522,
+    "hard": "ulam",
+    "hard_sim": 0.2205
+  },
+  {
+    "word": "salad",
+    "category": "food",
+    "easy": "bowl",
+    "easy_sim": 0.6205,
+    "medium": "vegetable",
+    "medium_sim": 0.5942,
+    "hard": "happy",
+    "hard_sim": 0.2172
+  },
+  {
+    "word": "steak",
+    "category": "food",
+    "easy": "beef",
+    "easy_sim": 0.7436,
+    "medium": "beefsteak",
+    "medium_sim": 0.5878,
+    "hard": "strip",
+    "hard_sim": 0.239
+  },
+  {
+    "word": "sausage",
+    "category": "food",
+    "easy": "sausage balloon",
+    "easy_sim": 0.7002,
+    "medium": "pillow",
+    "medium_sim": 0.4725,
+    "hard": "blimp",
+    "hard_sim": 0.2313
+  },
+  {
+    "word": "pizza",
+    "category": "food",
+    "easy": "pizza pie",
+    "easy_sim": 0.7942,
+    "medium": "pie",
+    "medium_sim": 0.6046,
+    "hard": "quentin",
+    "hard_sim": 0.2314
+  },
+  {
+    "word": "butter",
+    "category": "food",
+    "easy": "butterfat",
+    "easy_sim": 0.7734,
+    "medium": "cream",
+    "medium_sim": 0.5759,
+    "hard": "papi",
+    "hard_sim": 0.2185
+  },
+  {
+    "word": "honey",
+    "category": "food",
+    "easy": "sweetness",
+    "easy_sim": 0.5542,
+    "medium": "sweetness",
+    "medium_sim": 0.5542,
+    "hard": "coleslaw",
+    "hard_sim": 0.2233
+  },
+  {
+    "word": "coffee",
+    "category": "drink",
+    "easy": "coffee bean",
+    "easy_sim": 0.7804,
+    "medium": "espresso",
+    "medium_sim": 0.5589,
+    "hard": "umber",
+    "hard_sim": 0.2232
+  },
+  {
+    "word": "tea",
+    "category": "drink",
+    "easy": "tea leaf",
+    "easy_sim": 0.7956,
+    "medium": "brew",
+    "medium_sim": 0.5246,
+    "hard": "camellia sinensis",
+    "hard_sim": 0.23
+  },
+  {
+    "word": "juice",
+    "category": "drink",
+    "easy": "drink",
+    "easy_sim": 0.5391,
+    "medium": "drink",
+    "medium_sim": 0.5391,
+    "hard": "notch",
+    "hard_sim": 0.2183
+  },
+  {
+    "word": "beer",
+    "category": "drink",
+    "easy": "liquor",
+    "easy_sim": 0.7627,
+    "medium": "lager",
+    "medium_sim": 0.5308,
+    "hard": "pilsner",
+    "hard_sim": 0.2133
+  },
+  {
+    "word": "wine",
+    "category": "drink",
+    "easy": "winemaking",
+    "easy_sim": 0.8484,
+    "medium": "booze",
+    "medium_sim": 0.5573,
+    "hard": "viticulture",
+    "hard_sim": 0.2287
+  },
+  {
+    "word": "milk",
+    "category": "drink",
+    "easy": "dairy",
+    "easy_sim": 0.8201,
+    "medium": "cream",
+    "medium_sim": 0.5601,
+    "hard": "opaque",
+    "hard_sim": 0.2077
+  },
+  {
+    "word": "cocktail",
+    "category": "drink",
+    "easy": "mixed drink",
+    "easy_sim": 0.7488,
+    "medium": "mixing",
+    "medium_sim": 0.5616,
+    "hard": "shrimp",
+    "hard_sim": 0.2555
+  },
+  {
+    "word": "football",
+    "category": "sport",
+    "easy": "soccer",
+    "easy_sim": 0.8449,
+    "medium": "championship",
+    "medium_sim": 0.577,
+    "hard": "bullet",
+    "hard_sim": 0.253
+  },
+  {
+    "word": "swimming",
+    "category": "sport",
+    "easy": "swim",
+    "easy_sim": 0.9251,
+    "medium": "bathing",
+    "medium_sim": 0.5889,
+    "hard": "sai",
+    "hard_sim": 0.2202
+  },
+  {
+    "word": "boxing",
+    "category": "sport",
+    "easy": "boxer",
+    "easy_sim": 0.8596,
+    "medium": "prizefighting",
+    "medium_sim": 0.5446,
+    "hard": "kid",
+    "hard_sim": 0.2616
+  },
+  {
+    "word": "cycling",
+    "category": "sport",
+    "easy": "biking",
+    "easy_sim": 0.9044,
+    "medium": "motorcycle",
+    "medium_sim": 0.5869,
+    "hard": "hz",
+    "hard_sim": 0.155
+  },
+  {
+    "word": "tennis",
+    "category": "sport",
+    "easy": "real tennis",
+    "easy_sim": 0.8356,
+    "medium": "ball",
+    "medium_sim": 0.5492,
+    "hard": "open",
+    "hard_sim": 0.2474
+  },
+  {
+    "word": "skiing",
+    "category": "sport",
+    "easy": "heli-skiing",
+    "easy_sim": 0.7113,
+    "medium": "downhill",
+    "medium_sim": 0.5644,
+    "hard": "fame",
+    "hard_sim": 0.2212
+  },
+  {
+    "word": "climbing",
+    "category": "activity",
+    "easy": "climber",
+    "easy_sim": 0.7959,
+    "medium": "mountain",
+    "medium_sim": 0.5744,
+    "hard": "scaling",
+    "hard_sim": 0.2334
+  },
+  {
+    "word": "sailing",
+    "category": "activity",
+    "easy": "sailboat",
+    "easy_sim": 0.8483,
+    "medium": "seagoing",
+    "medium_sim": 0.5832,
+    "hard": "asea",
+    "hard_sim": 0.143
+  },
+  {
+    "word": "fishing",
+    "category": "activity",
+    "easy": "fishery",
+    "easy_sim": 0.7739,
+    "medium": "overfishing",
+    "medium_sim": 0.5449,
+    "hard": "gull",
+    "hard_sim": 0.2207
+  },
+  {
+    "word": "hiking",
+    "category": "activity",
+    "easy": "hike up",
+    "easy_sim": 0.834,
+    "medium": "climb",
+    "medium_sim": 0.5708,
+    "hard": "boost",
+    "hard_sim": 0.2131
+  },
+  {
+    "word": "dancing",
+    "category": "activity",
+    "easy": "dance",
+    "easy_sim": 0.9515,
+    "medium": "choreographer",
+    "medium_sim": 0.5854,
+    "hard": "monster",
+    "hard_sim": 0.2246
+  },
+  {
+    "word": "wrestling",
+    "category": "sport",
+    "easy": "wrestle",
+    "easy_sim": 0.9114,
+    "medium": "fighting",
+    "medium_sim": 0.5506,
+    "hard": "reduction",
+    "hard_sim": 0.2089
+  },
+  {
+    "word": "archery",
+    "category": "sport",
+    "easy": "para-archery",
+    "easy_sim": 0.8358,
+    "medium": "recurve bow",
+    "medium_sim": 0.5829,
+    "hard": "york round",
+    "hard_sim": 0.2271
+  },
+  {
+    "word": "gymnastics",
+    "category": "sport",
+    "easy": "gymnasts",
+    "easy_sim": 0.8647,
+    "medium": "exercises",
+    "medium_sim": 0.5609,
+    "hard": "gross motor skill",
+    "hard_sim": 0.2235
+  },
+  {
+    "word": "surfing",
+    "category": "sport",
+    "easy": "surfboarding",
+    "easy_sim": 0.8247,
+    "medium": "riding",
+    "medium_sim": 0.561,
+    "hard": "shipping",
+    "hard_sim": 0.1936
+  },
+  {
+    "word": "running",
+    "category": "activity",
+    "easy": "run",
+    "easy_sim": 0.854,
+    "medium": "track",
+    "medium_sim": 0.5505,
+    "hard": "continual",
+    "hard_sim": 0.2177
+  },
+  {
+    "word": "rowing",
+    "category": "activity",
+    "easy": "canoeing",
+    "easy_sim": 0.6837,
+    "medium": "boat",
+    "medium_sim": 0.5754,
+    "hard": "shelling",
+    "hard_sim": 0.2288
+  },
+  {
+    "word": "golf",
+    "category": "sport",
+    "easy": "golf game",
+    "easy_sim": 0.8915,
+    "medium": "football",
+    "medium_sim": 0.5598,
+    "hard": "deluge",
+    "hard_sim": 0.2174
+  },
+  {
+    "word": "basketball",
+    "category": "sport",
+    "easy": "nba",
+    "easy_sim": 0.8428,
+    "medium": "roundball",
+    "medium_sim": 0.5546,
+    "hard": "cagers",
+    "hard_sim": 0.2118
+  },
+  {
+    "word": "volleyball",
+    "category": "sport",
+    "easy": "beach volleyball",
+    "easy_sim": 0.8516,
+    "medium": "handball",
+    "medium_sim": 0.6051,
+    "hard": "airliner",
+    "hard_sim": 0.2228
+  },
+  {
+    "word": "lion",
+    "category": "animal",
+    "easy": "lioness",
+    "easy_sim": 0.7602,
+    "medium": "panthera leo",
+    "medium_sim": 0.5934,
+    "hard": "seal",
+    "hard_sim": 0.2419
+  },
+  {
+    "word": "eagle",
+    "category": "animal",
+    "easy": "sea-eagle",
+    "easy_sim": 0.7987,
+    "medium": "hawk",
+    "medium_sim": 0.5691,
+    "hard": "sculpture",
+    "hard_sim": 0.211
+  },
+  {
+    "word": "shark",
+    "category": "animal",
+    "easy": "loan shark",
+    "easy_sim": 0.6714,
+    "medium": "dogfish",
+    "medium_sim": 0.5986,
+    "hard": "basking",
+    "hard_sim": 0.2218
+  },
+  {
+    "word": "elephant",
+    "category": "animal",
+    "easy": "animal",
+    "easy_sim": 0.6531,
+    "medium": "mammoth",
+    "medium_sim": 0.5814,
+    "hard": "luxury",
+    "hard_sim": 0.2347
+  },
+  {
+    "word": "wolf",
+    "category": "animal",
+    "easy": "wolf down",
+    "easy_sim": 0.7638,
+    "medium": "coyote",
+    "medium_sim": 0.5986,
+    "hard": "loup",
+    "hard_sim": 0.2247
+  },
+  {
+    "word": "horse",
+    "category": "animal",
+    "easy": "horse cavalry",
+    "easy_sim": 0.7684,
+    "medium": "cavalry",
+    "medium_sim": 0.6128,
+    "hard": "junk",
+    "hard_sim": 0.2111
+  },
+  {
+    "word": "dolphin",
+    "category": "animal",
+    "easy": "river dolphin",
+    "easy_sim": 0.8838,
+    "medium": "blackfish",
+    "medium_sim": 0.6157,
+    "hard": "delphinid",
+    "hard_sim": 0.2303
+  },
+  {
+    "word": "penguin",
+    "category": "animal",
+    "easy": "icebird",
+    "easy_sim": 0.4957,
+    "medium": "icebird",
+    "medium_sim": 0.4957,
+    "hard": "alcid",
+    "hard_sim": 0.2035
+  },
+  {
+    "word": "crocodile",
+    "category": "animal",
+    "easy": "nile crocodile",
+    "easy_sim": 0.8235,
+    "medium": "croc",
+    "medium_sim": 0.5719,
+    "hard": "yacare",
+    "hard_sim": 0.2189
+  },
+  {
+    "word": "owl",
+    "category": "animal",
+    "easy": "bird",
+    "easy_sim": 0.5745,
+    "medium": "bird",
+    "medium_sim": 0.5745,
+    "hard": "whet",
+    "hard_sim": 0.2213
+  },
+  {
+    "word": "bear",
+    "category": "animal",
+    "easy": "brook",
+    "easy_sim": 0.4339,
+    "medium": "suffer",
+    "medium_sim": 0.2417,
+    "hard": "take over",
+    "hard_sim": 0.2204
+  },
+  {
+    "word": "fox",
+    "category": "animal",
+    "easy": "george fox",
+    "easy_sim": 0.7482,
+    "medium": "fob",
+    "medium_sim": 0.2638,
+    "hard": "befuddle",
+    "hard_sim": 0.2334
+  },
+  {
+    "word": "rabbit",
+    "category": "animal",
+    "easy": "bunny",
+    "easy_sim": 0.8562,
+    "medium": "hare",
+    "medium_sim": 0.6413,
+    "hard": "god",
+    "hard_sim": 0.24
+  },
+  {
+    "word": "snake",
+    "category": "animal",
+    "easy": "serpent",
+    "easy_sim": 0.8214,
+    "medium": "frog",
+    "medium_sim": 0.591,
+    "hard": "auger",
+    "hard_sim": 0.2296
+  },
+  {
+    "word": "gorilla",
+    "category": "animal",
+    "easy": "western gorilla",
+    "easy_sim": 0.819,
+    "medium": "great ape",
+    "medium_sim": 0.5911,
+    "hard": "aap",
+    "hard_sim": 0.2363
+  },
+  {
+    "word": "flamingo",
+    "category": "animal",
+    "easy": "american flamingo",
+    "easy_sim": 0.8416,
+    "medium": "flamenco",
+    "medium_sim": 0.5741,
+    "hard": "fleming",
+    "hard_sim": 0.2175
+  },
+  {
+    "word": "leopard",
+    "category": "animal",
+    "easy": "snow-leopard",
+    "easy_sim": 0.8689,
+    "medium": "tiger",
+    "medium_sim": 0.5316,
+    "hard": "fahd",
+    "hard_sim": 0.2203
+  },
+  {
+    "word": "turtle",
+    "category": "animal",
+    "easy": "sea turtle",
+    "easy_sim": 0.901,
+    "medium": "tortoise",
+    "medium_sim": 0.5883,
+    "hard": "snapping",
+    "hard_sim": 0.2234
+  },
+  {
+    "word": "parrot",
+    "category": "animal",
+    "easy": "beak",
+    "easy_sim": 0.6262,
+    "medium": "parakeet",
+    "medium_sim": 0.5866,
+    "hard": "copycat",
+    "hard_sim": 0.2052
+  },
+  {
+    "word": "deer",
+    "category": "animal",
+    "easy": "moose",
+    "easy_sim": 0.6546,
+    "medium": "reindeer",
+    "medium_sim": 0.5855,
+    "hard": "stealer",
+    "hard_sim": 0.2182
+  }
+]

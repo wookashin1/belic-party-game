@@ -1,0 +1,842 @@
+[
+  {
+    "word": "stairs",
+    "synonym": "staircase",
+    "category": "architecture",
+    "synonym_sim": 0.9179,
+    "category_sim": 0.2983
+  },
+  {
+    "word": "cycling",
+    "synonym": "biking",
+    "category": "sport",
+    "synonym_sim": 0.9044,
+    "category_sim": 0.5534
+  },
+  {
+    "word": "doctor",
+    "synonym": "physician",
+    "category": "profession",
+    "synonym_sim": 0.8598,
+    "category_sim": 0.5705
+  },
+  {
+    "word": "football",
+    "synonym": "soccer",
+    "category": "sport",
+    "synonym_sim": 0.8449,
+    "category_sim": 0.7519
+  },
+  {
+    "word": "bread",
+    "synonym": "loaf",
+    "category": "food",
+    "synonym_sim": 0.827,
+    "category_sim": 0.5555
+  },
+  {
+    "word": "snake",
+    "synonym": "serpent",
+    "category": "animal",
+    "synonym_sim": 0.8214,
+    "category_sim": 0.6125
+  },
+  {
+    "word": "knife",
+    "synonym": "blade",
+    "category": "tool",
+    "synonym_sim": 0.8024,
+    "category_sim": 0.5499
+  },
+  {
+    "word": "cave",
+    "synonym": "cavern",
+    "category": "geography",
+    "synonym_sim": 0.7954,
+    "category_sim": 0.2838
+  },
+  {
+    "word": "journalist",
+    "synonym": "reporter",
+    "category": "profession",
+    "synonym_sim": 0.7888,
+    "category_sim": 0.5195
+  },
+  {
+    "word": "archery",
+    "synonym": "bow shooting",
+    "category": "sport",
+    "synonym_sim": 0.7805,
+    "category_sim": 0.5089
+  },
+  {
+    "word": "milk",
+    "synonym": "dairy drink",
+    "category": "drink",
+    "synonym_sim": 0.7774,
+    "category_sim": 0.483
+  },
+  {
+    "word": "detective",
+    "synonym": "investigator",
+    "category": "profession",
+    "synonym_sim": 0.7669,
+    "category_sim": 0.4156
+  },
+  {
+    "word": "dentist",
+    "synonym": "oral doctor",
+    "category": "profession",
+    "synonym_sim": 0.7635,
+    "category_sim": 0.4344
+  },
+  {
+    "word": "sailing",
+    "synonym": "yachting",
+    "category": "activity",
+    "synonym_sim": 0.7634,
+    "category_sim": 0.3672
+  },
+  {
+    "word": "carpet",
+    "synonym": "rug",
+    "category": "furniture",
+    "synonym_sim": 0.7544,
+    "category_sim": 0.555
+  },
+  {
+    "word": "cocktail",
+    "synonym": "mixed drink",
+    "category": "drink",
+    "synonym_sim": 0.7488,
+    "category_sim": 0.6366
+  },
+  {
+    "word": "chef",
+    "synonym": "cook",
+    "category": "profession",
+    "synonym_sim": 0.7299,
+    "category_sim": 0.3895
+  },
+  {
+    "word": "teacher",
+    "synonym": "instructor",
+    "category": "profession",
+    "synonym_sim": 0.728,
+    "category_sim": 0.599
+  },
+  {
+    "word": "architect",
+    "synonym": "building designer",
+    "category": "profession",
+    "synonym_sim": 0.7223,
+    "category_sim": 0.4493
+  },
+  {
+    "word": "astronaut",
+    "synonym": "cosmonaut",
+    "category": "profession",
+    "synonym_sim": 0.7197,
+    "category_sim": 0.3278
+  },
+  {
+    "word": "forest",
+    "synonym": "woodland",
+    "category": "nature",
+    "synonym_sim": 0.7148,
+    "category_sim": 0.4664
+  },
+  {
+    "word": "tennis",
+    "synonym": "racket sport",
+    "category": "sport",
+    "synonym_sim": 0.713,
+    "category_sim": 0.6632
+  },
+  {
+    "word": "horse",
+    "synonym": "stallion",
+    "category": "animal",
+    "synonym_sim": 0.7088,
+    "category_sim": 0.6637
+  },
+  {
+    "word": "lake",
+    "synonym": "pond",
+    "category": "geography",
+    "synonym_sim": 0.7054,
+    "category_sim": 0.3934
+  },
+  {
+    "word": "island",
+    "synonym": "isle",
+    "category": "geography",
+    "synonym_sim": 0.6933,
+    "category_sim": 0.4333
+  },
+  {
+    "word": "painter",
+    "synonym": "artist",
+    "category": "profession",
+    "synonym_sim": 0.681,
+    "category_sim": 0.3903
+  },
+  {
+    "word": "skiing",
+    "synonym": "snowboarding",
+    "category": "sport",
+    "synonym_sim": 0.6713,
+    "category_sim": 0.5819
+  },
+  {
+    "word": "judge",
+    "synonym": "magistrate",
+    "category": "profession",
+    "synonym_sim": 0.6703,
+    "category_sim": 0.3054
+  },
+  {
+    "word": "carpenter",
+    "synonym": "woodworker",
+    "category": "profession",
+    "synonym_sim": 0.6695,
+    "category_sim": 0.4661
+  },
+  {
+    "word": "beach",
+    "synonym": "shoreline",
+    "category": "geography",
+    "synonym_sim": 0.6659,
+    "category_sim": 0.411
+  },
+  {
+    "word": "boxing",
+    "synonym": "fighting",
+    "category": "sport",
+    "synonym_sim": 0.6589,
+    "category_sim": 0.5931
+  },
+  {
+    "word": "clock",
+    "synonym": "timepiece",
+    "category": "object",
+    "synonym_sim": 0.6556,
+    "category_sim": 0.3219
+  },
+  {
+    "word": "cliff",
+    "synonym": "ledge",
+    "category": "geography",
+    "synonym_sim": 0.6556,
+    "category_sim": 0.2436
+  },
+  {
+    "word": "basketball",
+    "synonym": "hoops",
+    "category": "sport",
+    "synonym_sim": 0.6517,
+    "category_sim": 0.7671
+  },
+  {
+    "word": "beer",
+    "synonym": "ale",
+    "category": "drink",
+    "synonym_sim": 0.646,
+    "category_sim": 0.6973
+  },
+  {
+    "word": "bear",
+    "synonym": "grizzly",
+    "category": "animal",
+    "synonym_sim": 0.645,
+    "category_sim": 0.5893
+  },
+  {
+    "word": "swimming",
+    "synonym": "diving",
+    "category": "sport",
+    "synonym_sim": 0.6439,
+    "category_sim": 0.6319
+  },
+  {
+    "word": "rabbit",
+    "synonym": "hare",
+    "category": "animal",
+    "synonym_sim": 0.6413,
+    "category_sim": 0.6538
+  },
+  {
+    "word": "parrot",
+    "synonym": "tropical bird",
+    "category": "animal",
+    "synonym_sim": 0.6412,
+    "category_sim": 0.4828
+  },
+  {
+    "word": "butcher",
+    "synonym": "meat cutter",
+    "category": "profession",
+    "synonym_sim": 0.6344,
+    "category_sim": 0.4084
+  },
+  {
+    "word": "key",
+    "synonym": "passkey",
+    "category": "object",
+    "synonym_sim": 0.628,
+    "category_sim": 0.3343
+  },
+  {
+    "word": "running",
+    "synonym": "sprinting",
+    "category": "activity",
+    "synonym_sim": 0.6271,
+    "category_sim": 0.4315
+  },
+  {
+    "word": "blanket",
+    "synonym": "duvet",
+    "category": "bedding",
+    "synonym_sim": 0.6254,
+    "category_sim": 0.5327
+  },
+  {
+    "word": "engineer",
+    "synonym": "designer",
+    "category": "profession",
+    "synonym_sim": 0.6235,
+    "category_sim": 0.5428
+  },
+  {
+    "word": "jungle",
+    "synonym": "rainforest",
+    "category": "nature",
+    "synonym_sim": 0.6227,
+    "category_sim": 0.3718
+  },
+  {
+    "word": "steak",
+    "synonym": "cut of beef",
+    "category": "food",
+    "synonym_sim": 0.6224,
+    "category_sim": 0.5003
+  },
+  {
+    "word": "brush",
+    "synonym": "bristle tool",
+    "category": "tool",
+    "synonym_sim": 0.6146,
+    "category_sim": 0.4583
+  },
+  {
+    "word": "dune",
+    "synonym": "sand hill",
+    "category": "geography",
+    "synonym_sim": 0.6131,
+    "category_sim": 0.3062
+  },
+  {
+    "word": "wallet",
+    "synonym": "purse",
+    "category": "accessory",
+    "synonym_sim": 0.6129,
+    "category_sim": 0.3466
+  },
+  {
+    "word": "rice",
+    "synonym": "grain",
+    "category": "food",
+    "synonym_sim": 0.6082,
+    "category_sim": 0.5844
+  },
+  {
+    "word": "pillow",
+    "synonym": "cushion",
+    "category": "bedding",
+    "synonym_sim": 0.6078,
+    "category_sim": 0.5996
+  },
+  {
+    "word": "soldier",
+    "synonym": "warrior",
+    "category": "profession",
+    "synonym_sim": 0.6028,
+    "category_sim": 0.2962
+  },
+  {
+    "word": "phone",
+    "synonym": "handset",
+    "category": "device",
+    "synonym_sim": 0.601,
+    "category_sim": 0.6204
+  },
+  {
+    "word": "meadow",
+    "synonym": "pasture",
+    "category": "nature",
+    "synonym_sim": 0.5998,
+    "category_sim": 0.3044
+  },
+  {
+    "word": "chair",
+    "synonym": "stool",
+    "category": "furniture",
+    "synonym_sim": 0.5981,
+    "category_sim": 0.6357
+  },
+  {
+    "word": "gorilla",
+    "synonym": "great ape",
+    "category": "animal",
+    "synonym_sim": 0.5911,
+    "category_sim": 0.5513
+  },
+  {
+    "word": "bag",
+    "synonym": "sack",
+    "category": "container",
+    "synonym_sim": 0.5899,
+    "category_sim": 0.4748
+  },
+  {
+    "word": "turtle",
+    "synonym": "tortoise",
+    "category": "animal",
+    "synonym_sim": 0.5883,
+    "category_sim": 0.5294
+  },
+  {
+    "word": "crocodile",
+    "synonym": "reptile",
+    "category": "animal",
+    "synonym_sim": 0.5841,
+    "category_sim": 0.5003
+  },
+  {
+    "word": "volcano",
+    "synonym": "crater",
+    "category": "geography",
+    "synonym_sim": 0.584,
+    "category_sim": 0.3377
+  },
+  {
+    "word": "mountain",
+    "synonym": "peak",
+    "category": "geography",
+    "synonym_sim": 0.581,
+    "category_sim": 0.4526
+  },
+  {
+    "word": "surfing",
+    "synonym": "wave riding",
+    "category": "sport",
+    "synonym_sim": 0.5801,
+    "category_sim": 0.4978
+  },
+  {
+    "word": "mechanic",
+    "synonym": "technician",
+    "category": "profession",
+    "synonym_sim": 0.5777,
+    "category_sim": 0.54
+  },
+  {
+    "word": "coffee",
+    "synonym": "espresso",
+    "category": "drink",
+    "synonym_sim": 0.5589,
+    "category_sim": 0.5441
+  },
+  {
+    "word": "fog",
+    "synonym": "mist",
+    "category": "weather",
+    "synonym_sim": 0.5578,
+    "category_sim": 0.4048
+  },
+  {
+    "word": "swamp",
+    "synonym": "marsh",
+    "category": "nature",
+    "synonym_sim": 0.5558,
+    "category_sim": 0.33
+  },
+  {
+    "word": "pasta",
+    "synonym": "noodle",
+    "category": "food",
+    "synonym_sim": 0.5522,
+    "category_sim": 0.5226
+  },
+  {
+    "word": "mirror",
+    "synonym": "reflection glass",
+    "category": "object",
+    "synonym_sim": 0.5504,
+    "category_sim": 0.366
+  },
+  {
+    "word": "rowing",
+    "synonym": "paddling",
+    "category": "activity",
+    "synonym_sim": 0.5497,
+    "category_sim": 0.3325
+  },
+  {
+    "word": "shark",
+    "synonym": "predator fish",
+    "category": "animal",
+    "synonym_sim": 0.543,
+    "category_sim": 0.4865
+  },
+  {
+    "word": "pilot",
+    "synonym": "aviator",
+    "category": "profession",
+    "synonym_sim": 0.5399,
+    "category_sim": 0.4061
+  },
+  {
+    "word": "librarian",
+    "synonym": "archivist",
+    "category": "profession",
+    "synonym_sim": 0.5395,
+    "category_sim": 0.4293
+  },
+  {
+    "word": "tea",
+    "synonym": "herbal brew",
+    "category": "drink",
+    "synonym_sim": 0.5394,
+    "category_sim": 0.5335
+  },
+  {
+    "word": "sailor",
+    "synonym": "mariner",
+    "category": "profession",
+    "synonym_sim": 0.5388,
+    "category_sim": 0.3152
+  },
+  {
+    "word": "valley",
+    "synonym": "gorge",
+    "category": "geography",
+    "synonym_sim": 0.5346,
+    "category_sim": 0.3837
+  },
+  {
+    "word": "owl",
+    "synonym": "night bird",
+    "category": "animal",
+    "synonym_sim": 0.5321,
+    "category_sim": 0.464
+  },
+  {
+    "word": "glacier",
+    "synonym": "ice sheet",
+    "category": "nature",
+    "synonym_sim": 0.5286,
+    "category_sim": 0.3499
+  },
+  {
+    "word": "river",
+    "synonym": "stream",
+    "category": "geography",
+    "synonym_sim": 0.5208,
+    "category_sim": 0.3653
+  },
+  {
+    "word": "gymnastics",
+    "synonym": "acrobatics",
+    "category": "sport",
+    "synonym_sim": 0.5168,
+    "category_sim": 0.5416
+  },
+  {
+    "word": "volleyball",
+    "synonym": "net sport",
+    "category": "sport",
+    "synonym_sim": 0.5146,
+    "category_sim": 0.6402
+  },
+  {
+    "word": "rainbow",
+    "synonym": "arc of color",
+    "category": "weather",
+    "synonym_sim": 0.5137,
+    "category_sim": 0.2582
+  },
+  {
+    "word": "juice",
+    "synonym": "nectar",
+    "category": "drink",
+    "synonym_sim": 0.5133,
+    "category_sim": 0.5391
+  },
+  {
+    "word": "table",
+    "synonym": "desk",
+    "category": "furniture",
+    "synonym_sim": 0.5062,
+    "category_sim": 0.4675
+  },
+  {
+    "word": "honey",
+    "synonym": "nectar",
+    "category": "food",
+    "synonym_sim": 0.5041,
+    "category_sim": 0.3254
+  },
+  {
+    "word": "salad",
+    "synonym": "greens",
+    "category": "food",
+    "synonym_sim": 0.4991,
+    "category_sim": 0.6007
+  },
+  {
+    "word": "hiking",
+    "synonym": "trekking",
+    "category": "activity",
+    "synonym_sim": 0.4908,
+    "category_sim": 0.3929
+  },
+  {
+    "word": "soup",
+    "synonym": "broth",
+    "category": "food",
+    "synonym_sim": 0.478,
+    "category_sim": 0.5412
+  },
+  {
+    "word": "lamp",
+    "synonym": "lantern",
+    "category": "furniture",
+    "synonym_sim": 0.4774,
+    "category_sim": 0.3823
+  },
+  {
+    "word": "storm",
+    "synonym": "tempest",
+    "category": "weather",
+    "synonym_sim": 0.4774,
+    "category_sim": 0.4708
+  },
+  {
+    "word": "lion",
+    "synonym": "big cat",
+    "category": "animal",
+    "synonym_sim": 0.4711,
+    "category_sim": 0.5753
+  },
+  {
+    "word": "cake",
+    "synonym": "pastry",
+    "category": "food",
+    "synonym_sim": 0.4682,
+    "category_sim": 0.458
+  },
+  {
+    "word": "elephant",
+    "synonym": "pachyderm",
+    "category": "animal",
+    "synonym_sim": 0.4582,
+    "category_sim": 0.6531
+  },
+  {
+    "word": "firefighter",
+    "synonym": "rescuer",
+    "category": "profession",
+    "synonym_sim": 0.4571,
+    "category_sim": 0.4945
+  },
+  {
+    "word": "wolf",
+    "synonym": "predator",
+    "category": "animal",
+    "synonym_sim": 0.4536,
+    "category_sim": 0.5497
+  },
+  {
+    "word": "bottle",
+    "synonym": "flask",
+    "category": "container",
+    "synonym_sim": 0.4354,
+    "category_sim": 0.4896
+  },
+  {
+    "word": "desert",
+    "synonym": "wasteland",
+    "category": "geography",
+    "synonym_sim": 0.4253,
+    "category_sim": 0.4228
+  },
+  {
+    "word": "dancing",
+    "synonym": "moving to music",
+    "category": "activity",
+    "synonym_sim": 0.4164,
+    "category_sim": 0.5432
+  },
+  {
+    "word": "fishing",
+    "synonym": "angling",
+    "category": "activity",
+    "synonym_sim": 0.415,
+    "category_sim": 0.3473
+  },
+  {
+    "word": "farmer",
+    "synonym": "cultivator",
+    "category": "profession",
+    "synonym_sim": 0.4068,
+    "category_sim": 0.3654
+  },
+  {
+    "word": "pizza",
+    "synonym": "flatbread",
+    "category": "food",
+    "synonym_sim": 0.4024,
+    "category_sim": 0.6375
+  },
+  {
+    "word": "window",
+    "synonym": "pane",
+    "category": "architecture",
+    "synonym_sim": 0.4005,
+    "category_sim": 0.2706
+  },
+  {
+    "word": "penguin",
+    "synonym": "flightless bird",
+    "category": "animal",
+    "synonym_sim": 0.3929,
+    "category_sim": 0.4831
+  },
+  {
+    "word": "leopard",
+    "synonym": "spotted cat",
+    "category": "animal",
+    "synonym_sim": 0.3899,
+    "category_sim": 0.4406
+  },
+  {
+    "word": "sausage",
+    "synonym": "frankfurter",
+    "category": "food",
+    "synonym_sim": 0.3894,
+    "category_sim": 0.539
+  },
+  {
+    "word": "butter",
+    "synonym": "spread",
+    "category": "food",
+    "synonym_sim": 0.3855,
+    "category_sim": 0.487
+  },
+  {
+    "word": "flamingo",
+    "synonym": "wading bird",
+    "category": "animal",
+    "synonym_sim": 0.3834,
+    "category_sim": 0.384
+  },
+  {
+    "word": "golf",
+    "synonym": "putting",
+    "category": "sport",
+    "synonym_sim": 0.3675,
+    "category_sim": 0.6359
+  },
+  {
+    "word": "cheese",
+    "synonym": "curd",
+    "category": "food",
+    "synonym_sim": 0.3645,
+    "category_sim": 0.6105
+  },
+  {
+    "word": "fox",
+    "synonym": "vixen",
+    "category": "animal",
+    "synonym_sim": 0.3545,
+    "category_sim": 0.4937
+  },
+  {
+    "word": "wrestling",
+    "synonym": "grappling",
+    "category": "sport",
+    "synonym_sim": 0.344,
+    "category_sim": 0.6197
+  },
+  {
+    "word": "door",
+    "synonym": "gateway",
+    "category": "architecture",
+    "synonym_sim": 0.3157,
+    "category_sim": 0.2887
+  },
+  {
+    "word": "eagle",
+    "synonym": "raptor",
+    "category": "animal",
+    "synonym_sim": 0.3116,
+    "category_sim": 0.4334
+  },
+  {
+    "word": "dolphin",
+    "synonym": "porpoise",
+    "category": "animal",
+    "synonym_sim": 0.3112,
+    "category_sim": 0.563
+  },
+  {
+    "word": "wine",
+    "synonym": "vintage",
+    "category": "drink",
+    "synonym_sim": 0.2978,
+    "category_sim": 0.5817
+  },
+  {
+    "word": "waterfall",
+    "synonym": "cascade",
+    "category": "nature",
+    "synonym_sim": 0.2749,
+    "category_sim": 0.4155
+  },
+  {
+    "word": "egg",
+    "synonym": "roe",
+    "category": "food",
+    "synonym_sim": 0.2719,
+    "category_sim": 0.5078
+  },
+  {
+    "word": "deer",
+    "synonym": "stag",
+    "category": "animal",
+    "synonym_sim": 0.268,
+    "category_sim": 0.5927
+  },
+  {
+    "word": "umbrella",
+    "synonym": "parasol",
+    "category": "accessory",
+    "synonym_sim": 0.2657,
+    "category_sim": 0.3258
+  },
+  {
+    "word": "climbing",
+    "synonym": "scaling",
+    "category": "activity",
+    "synonym_sim": 0.2334,
+    "category_sim": 0.4313
+  },
+  {
+    "word": "candle",
+    "synonym": "taper",
+    "category": "object",
+    "synonym_sim": 0.1397,
+    "category_sim": 0.3399
+  }
+]

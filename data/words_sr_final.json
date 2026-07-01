@@ -1,0 +1,1202 @@
+[
+  {
+    "word": "stolica",
+    "category": "nameštaj",
+    "easy": "taburet",
+    "easy_sim": 0.6758,
+    "medium": "naslonjač",
+    "medium_sim": 0.6046,
+    "hard": "presto",
+    "hard_sim": 0.4917
+  },
+  {
+    "word": "sto",
+    "category": "nameštaj",
+    "easy": "radni sto",
+    "easy_sim": 0.6657,
+    "medium": "podloga",
+    "medium_sim": 0.548,
+    "hard": "pult",
+    "hard_sim": 0.4199
+  },
+  {
+    "word": "lampa",
+    "category": "nameštaj",
+    "easy": "svetiljka",
+    "easy_sim": 0.8482,
+    "medium": "baklja",
+    "medium_sim": 0.5616,
+    "hard": "baklja",
+    "hard_sim": 0.5616
+  },
+  {
+    "word": "ogledalo",
+    "category": "predmet",
+    "easy": "reflektirajuće staklo",
+    "easy_sim": 0.7583,
+    "medium": "površina",
+    "medium_sim": 0.5162,
+    "hard": "odraz",
+    "hard_sim": 0.4
+  },
+  {
+    "word": "sat",
+    "category": "predmet",
+    "easy": "sundijal",
+    "easy_sim": 0.4783,
+    "medium": "sundijal",
+    "medium_sim": 0.4783,
+    "hard": "ručni sat",
+    "hard_sim": 0.3389
+  },
+  {
+    "word": "telefon",
+    "category": "uređaj",
+    "easy": "mobilni",
+    "easy_sim": 0.8317,
+    "medium": "uređaj",
+    "medium_sim": 0.5738,
+    "hard": "slušalica",
+    "hard_sim": 0.5032
+  },
+  {
+    "word": "ključ",
+    "category": "predmet",
+    "easy": "rezervni ključ",
+    "easy_sim": 0.8672,
+    "medium": "otvarač",
+    "medium_sim": 0.5484,
+    "hard": "zasun",
+    "hard_sim": 0.4461
+  },
+  {
+    "word": "novčanik",
+    "category": "pribor",
+    "easy": "porta-monea",
+    "easy_sim": 0.8919,
+    "medium": "torbica",
+    "medium_sim": 0.6926,
+    "hard": "futrola",
+    "hard_sim": 0.2224
+  },
+  {
+    "word": "kišobran",
+    "category": "pribor",
+    "easy": "pokrivač",
+    "easy_sim": 0.4869,
+    "medium": "pokrivač",
+    "medium_sim": 0.4869,
+    "hard": "suncobran",
+    "hard_sim": 0.2496
+  },
+  {
+    "word": "sveća",
+    "category": "predmet",
+    "easy": "plamen",
+    "easy_sim": 0.7248,
+    "medium": "fitilj",
+    "medium_sim": 0.5497,
+    "hard": "taper",
+    "hard_sim": 0.5168
+  },
+  {
+    "word": "jastuk",
+    "category": "posteljina",
+    "easy": "blazina",
+    "easy_sim": 0.8423,
+    "medium": "madrac",
+    "medium_sim": 0.6751,
+    "hard": "madrac",
+    "hard_sim": 0.6751
+  },
+  {
+    "word": "ćebe",
+    "category": "posteljina",
+    "easy": "čaršav",
+    "easy_sim": 0.8642,
+    "medium": "pokrivalica",
+    "medium_sim": 0.6483,
+    "hard": "pokrivalica",
+    "hard_sim": 0.6483
+  },
+  {
+    "word": "prozor",
+    "category": "arhitektura",
+    "easy": "staklo",
+    "easy_sim": 0.7182,
+    "medium": "lukarna",
+    "medium_sim": 0.5206,
+    "hard": "ram",
+    "hard_sim": 0.34
+  },
+  {
+    "word": "vrata",
+    "category": "arhitektura",
+    "easy": "ulaz",
+    "easy_sim": 0.7975,
+    "medium": "rešetka",
+    "medium_sim": 0.5788,
+    "hard": "portal",
+    "hard_sim": 0.5158
+  },
+  {
+    "word": "stepenice",
+    "category": "arhitektura",
+    "easy": "stepenik",
+    "easy_sim": 0.7855,
+    "medium": "rampa",
+    "medium_sim": 0.5774,
+    "hard": "lift",
+    "hard_sim": 0.3582
+  },
+  {
+    "word": "tepih",
+    "category": "nameštaj",
+    "easy": "podloga",
+    "easy_sim": 0.8185,
+    "medium": "saga",
+    "medium_sim": 0.5223,
+    "hard": "runner",
+    "hard_sim": 0.1823
+  },
+  {
+    "word": "boca",
+    "category": "posuda",
+    "easy": "posuda",
+    "easy_sim": 0.8713,
+    "medium": "kanta",
+    "medium_sim": 0.8074,
+    "hard": "tikvica",
+    "hard_sim": 0.725
+  },
+  {
+    "word": "torba",
+    "category": "posuda",
+    "easy": "vreća",
+    "easy_sim": 0.8388,
+    "medium": "paket",
+    "medium_sim": 0.626,
+    "hard": "tašna",
+    "hard_sim": 0.4195
+  },
+  {
+    "word": "nož",
+    "category": "alat",
+    "easy": "mač",
+    "easy_sim": 0.6645,
+    "medium": "rezač",
+    "medium_sim": 0.6301,
+    "hard": "kama",
+    "hard_sim": 0.3613
+  },
+  {
+    "word": "četka",
+    "category": "alat",
+    "easy": "češalj",
+    "easy_sim": 0.8742,
+    "medium": "metlica",
+    "medium_sim": 0.8193,
+    "hard": "mop",
+    "hard_sim": 0.4317
+  },
+  {
+    "word": "planina",
+    "category": "geografija",
+    "easy": "gora",
+    "easy_sim": 0.9566,
+    "medium": "greben",
+    "medium_sim": 0.5578,
+    "hard": "vis",
+    "hard_sim": 0.505
+  },
+  {
+    "word": "reka",
+    "category": "geografija",
+    "easy": "potok",
+    "easy_sim": 0.8753,
+    "medium": "kanal",
+    "medium_sim": 0.5558,
+    "hard": "rukavac",
+    "hard_sim": 0.4186
+  },
+  {
+    "word": "plaža",
+    "category": "geografija",
+    "easy": "obala",
+    "easy_sim": 0.8876,
+    "medium": "sprud",
+    "medium_sim": 0.5023,
+    "hard": "prioblje",
+    "hard_sim": 0.4889
+  },
+  {
+    "word": "šuma",
+    "category": "priroda",
+    "easy": "prašuma",
+    "easy_sim": 0.8242,
+    "medium": "lug",
+    "medium_sim": 0.5825,
+    "hard": "lug",
+    "hard_sim": 0.5825
+  },
+  {
+    "word": "pustinja",
+    "category": "geografija",
+    "easy": "peščara",
+    "easy_sim": 0.7412,
+    "medium": "stepa",
+    "medium_sim": 0.5727,
+    "hard": "stepa",
+    "hard_sim": 0.5727
+  },
+  {
+    "word": "ostrvo",
+    "category": "geografija",
+    "easy": "ostrvce",
+    "easy_sim": 0.7873,
+    "medium": "poluostrvo",
+    "medium_sim": 0.6066,
+    "hard": "atol",
+    "hard_sim": 0.4103
+  },
+  {
+    "word": "vulkan",
+    "category": "geografija",
+    "easy": "krater",
+    "easy_sim": 0.7415,
+    "medium": "vrh",
+    "medium_sim": 0.5076,
+    "hard": "gejzir",
+    "hard_sim": 0.2558
+  },
+  {
+    "word": "pećina",
+    "category": "geografija",
+    "easy": "špilja",
+    "easy_sim": 0.9147,
+    "medium": "sklonište",
+    "medium_sim": 0.6167,
+    "hard": "duplja",
+    "hard_sim": 0.4325
+  },
+  {
+    "word": "jezero",
+    "category": "geografija",
+    "easy": "laguna",
+    "easy_sim": 0.8149,
+    "medium": "lokva",
+    "medium_sim": 0.3853,
+    "hard": "akumulacija",
+    "hard_sim": 0.269
+  },
+  {
+    "word": "dolina",
+    "category": "geografija",
+    "easy": "ravnica",
+    "easy_sim": 0.6961,
+    "medium": "klisura",
+    "medium_sim": 0.5678,
+    "hard": "jaruga",
+    "hard_sim": 0.4788
+  },
+  {
+    "word": "litica",
+    "category": "geografija",
+    "easy": "greben",
+    "easy_sim": 0.874,
+    "medium": "stena",
+    "medium_sim": 0.5006,
+    "hard": "stena",
+    "hard_sim": 0.5006
+  },
+  {
+    "word": "vodopad",
+    "category": "priroda",
+    "easy": "bujica",
+    "easy_sim": 0.3901,
+    "medium": "torrent",
+    "medium_sim": 0.3205,
+    "hard": "kaskada",
+    "hard_sim": 0.2698
+  },
+  {
+    "word": "glečer",
+    "category": "priroda",
+    "easy": "ledena ploča",
+    "easy_sim": 0.7666,
+    "medium": "mraz",
+    "medium_sim": 0.5619,
+    "hard": "sante leda",
+    "hard_sim": 0.3652
+  },
+  {
+    "word": "močvara",
+    "category": "priroda",
+    "easy": "tresetište",
+    "easy_sim": 0.5453,
+    "medium": "tresetište",
+    "medium_sim": 0.5453,
+    "hard": "bara",
+    "hard_sim": 0.3356
+  },
+  {
+    "word": "livada",
+    "category": "priroda",
+    "easy": "visija",
+    "easy_sim": 0.846,
+    "medium": "travnik",
+    "medium_sim": 0.6067,
+    "hard": "travnik",
+    "hard_sim": 0.6067
+  },
+  {
+    "word": "džungla",
+    "category": "priroda",
+    "easy": "šuma",
+    "easy_sim": 0.7609,
+    "medium": "žbunje",
+    "medium_sim": 0.532,
+    "hard": "gustiš",
+    "hard_sim": 0.3988
+  },
+  {
+    "word": "peščana dina",
+    "category": "geografija",
+    "easy": "brežuljak od peska",
+    "easy_sim": 0.858,
+    "medium": "humka",
+    "medium_sim": 0.601,
+    "hard": "gomila",
+    "hard_sim": 0.5115
+  },
+  {
+    "word": "oluja",
+    "category": "vreme",
+    "easy": "mećava",
+    "easy_sim": 0.7663,
+    "medium": "uragan",
+    "medium_sim": 0.6295,
+    "hard": "uragan",
+    "hard_sim": 0.6295
+  },
+  {
+    "word": "magla",
+    "category": "vreme",
+    "easy": "izmaglica",
+    "easy_sim": 0.7682,
+    "medium": "sumagličavost",
+    "medium_sim": 0.6279,
+    "hard": "smog",
+    "hard_sim": 0.376
+  },
+  {
+    "word": "duga",
+    "category": "vreme",
+    "easy": "luk",
+    "easy_sim": 0.9072,
+    "medium": "luk boja",
+    "medium_sim": 0.5886,
+    "hard": "spektar",
+    "hard_sim": 0.5
+  },
+  {
+    "word": "lekar",
+    "category": "zanimanje",
+    "easy": "hirurg",
+    "easy_sim": 0.8556,
+    "medium": "specijalista",
+    "medium_sim": 0.8866,
+    "hard": "pedijatar",
+    "hard_sim": 0.7324
+  },
+  {
+    "word": "učitelj",
+    "category": "zanimanje",
+    "easy": "instruktor",
+    "easy_sim": 0.8303,
+    "medium": "mentor",
+    "medium_sim": 0.6886,
+    "hard": "mentor",
+    "hard_sim": 0.6886
+  },
+  {
+    "word": "kuvar",
+    "category": "zanimanje",
+    "easy": "poslastičar",
+    "easy_sim": 0.8669,
+    "medium": "caterer",
+    "medium_sim": 0.6389,
+    "hard": "majstor kuhinje",
+    "hard_sim": 0.46
+  },
+  {
+    "word": "pilot",
+    "category": "zanimanje",
+    "easy": "aviator",
+    "easy_sim": 0.8207,
+    "medium": "kapetan",
+    "medium_sim": 0.5951,
+    "hard": "kopilot",
+    "hard_sim": 0.4328
+  },
+  {
+    "word": "vojnik",
+    "category": "zanimanje",
+    "easy": "ratnik",
+    "easy_sim": 0.7481,
+    "medium": "trupac",
+    "medium_sim": 0.5612,
+    "hard": "vitez",
+    "hard_sim": 0.437
+  },
+  {
+    "word": "sudija",
+    "category": "zanimanje",
+    "easy": "magistrat",
+    "easy_sim": 0.8121,
+    "medium": "pravda",
+    "medium_sim": 0.5685,
+    "hard": "arbitar",
+    "hard_sim": 0.4185
+  },
+  {
+    "word": "farmer",
+    "category": "zanimanje",
+    "easy": "seljak",
+    "easy_sim": 0.8577,
+    "medium": "ratar",
+    "medium_sim": 0.4225,
+    "hard": "pastir",
+    "hard_sim": 0.3453
+  },
+  {
+    "word": "slikar",
+    "category": "zanimanje",
+    "easy": "umetnik",
+    "easy_sim": 0.8617,
+    "medium": "vajar",
+    "medium_sim": 0.4884,
+    "hard": "vajar",
+    "hard_sim": 0.4884
+  },
+  {
+    "word": "mornar",
+    "category": "zanimanje",
+    "easy": "ribar",
+    "easy_sim": 0.8455,
+    "medium": "navigator",
+    "medium_sim": 0.5161,
+    "hard": "navigator",
+    "hard_sim": 0.5161
+  },
+  {
+    "word": "stolar",
+    "category": "zanimanje",
+    "easy": "tesar",
+    "easy_sim": 0.4333,
+    "medium": "graditelj",
+    "medium_sim": 0.3753,
+    "hard": "drvodelac",
+    "hard_sim": 0.365
+  },
+  {
+    "word": "vatrogasac",
+    "category": "zanimanje",
+    "easy": "gasilac",
+    "easy_sim": 0.6021,
+    "medium": "gasilac",
+    "medium_sim": 0.6021,
+    "hard": "intervenient",
+    "hard_sim": 0.3595
+  },
+  {
+    "word": "bibliotekar",
+    "category": "zanimanje",
+    "easy": "knjižničar",
+    "easy_sim": 0.9828,
+    "medium": "naučnik",
+    "medium_sim": 0.5132,
+    "hard": "referent",
+    "hard_sim": 0.3603
+  },
+  {
+    "word": "inženjer",
+    "category": "zanimanje",
+    "easy": "tehničar",
+    "easy_sim": 0.7611,
+    "medium": "developer",
+    "medium_sim": 0.543,
+    "hard": "planer",
+    "hard_sim": 0.4046
+  },
+  {
+    "word": "zubar",
+    "category": "zanimanje",
+    "easy": "stomatolog",
+    "easy_sim": 0.8147,
+    "medium": "higijeničar",
+    "medium_sim": 0.5795,
+    "hard": "hirurg",
+    "hard_sim": 0.5372
+  },
+  {
+    "word": "mesar",
+    "category": "zanimanje",
+    "easy": "klaničar",
+    "easy_sim": 0.6617,
+    "medium": "prodavac",
+    "medium_sim": 0.5498,
+    "hard": "trgovac mesom",
+    "hard_sim": 0.3962
+  },
+  {
+    "word": "mehaničar",
+    "category": "zanimanje",
+    "easy": "inženjer",
+    "easy_sim": 0.7919,
+    "medium": "majstor",
+    "medium_sim": 0.5354,
+    "hard": "majstor",
+    "hard_sim": 0.5354
+  },
+  {
+    "word": "arhitekta",
+    "category": "zanimanje",
+    "easy": "projektant zgrada",
+    "easy_sim": 0.8315,
+    "medium": "crtač nacrta",
+    "medium_sim": 0.5302,
+    "hard": "izvođač",
+    "hard_sim": 0.4386
+  },
+  {
+    "word": "novinar",
+    "category": "zanimanje",
+    "easy": "dopisnik",
+    "easy_sim": 0.8785,
+    "medium": "urednik",
+    "medium_sim": 0.6651,
+    "hard": "spiker",
+    "hard_sim": 0.198
+  },
+  {
+    "word": "detektiv",
+    "category": "zanimanje",
+    "easy": "inspektor",
+    "easy_sim": 0.7173,
+    "medium": "agent",
+    "medium_sim": 0.6008,
+    "hard": "agent",
+    "hard_sim": 0.6008
+  },
+  {
+    "word": "astronaut",
+    "category": "zanimanje",
+    "easy": "svemirski putnik",
+    "easy_sim": 0.7902,
+    "medium": "pilot",
+    "medium_sim": 0.566,
+    "hard": "naučnik",
+    "hard_sim": 0.4044
+  },
+  {
+    "word": "hleb",
+    "category": "hrana",
+    "easy": "pita",
+    "easy_sim": 0.6046,
+    "medium": "pita",
+    "medium_sim": 0.6046,
+    "hard": "kifla",
+    "hard_sim": 0.3867
+  },
+  {
+    "word": "sir",
+    "category": "hrana",
+    "easy": "čedar",
+    "easy_sim": 0.6053,
+    "medium": "mocarela",
+    "medium_sim": 0.5941,
+    "hard": "mlečni proizvod",
+    "hard_sim": 0.2855
+  },
+  {
+    "word": "supa",
+    "category": "hrana",
+    "easy": "čorba",
+    "easy_sim": 0.5581,
+    "medium": "čorba",
+    "medium_sim": 0.5581,
+    "hard": "temeljac",
+    "hard_sim": 0.3559
+  },
+  {
+    "word": "torta",
+    "category": "hrana",
+    "easy": "kolač",
+    "easy_sim": 0.9762,
+    "medium": "pecivo",
+    "medium_sim": 0.4891,
+    "hard": "mafin",
+    "hard_sim": 0.2803
+  },
+  {
+    "word": "jaje",
+    "category": "hrana",
+    "easy": "žumance",
+    "easy_sim": 0.7503,
+    "medium": "embrion",
+    "medium_sim": 0.5154,
+    "hard": "embrion",
+    "hard_sim": 0.5154
+  },
+  {
+    "word": "pirinač",
+    "category": "hrana",
+    "easy": "žitarica",
+    "easy_sim": 0.6042,
+    "medium": "rižoto",
+    "medium_sim": 0.5955,
+    "hard": "ječam",
+    "hard_sim": 0.3006
+  },
+  {
+    "word": "testenina",
+    "category": "hrana",
+    "easy": "špageti",
+    "easy_sim": 0.9207,
+    "medium": "linguine",
+    "medium_sim": 0.5059,
+    "hard": "testo",
+    "hard_sim": 0.3354
+  },
+  {
+    "word": "salata",
+    "category": "hrana",
+    "easy": "mešano povrće",
+    "easy_sim": 0.7782,
+    "medium": "zeleniš",
+    "medium_sim": 0.536,
+    "hard": "garnitura",
+    "hard_sim": 0.1801
+  },
+  {
+    "word": "odrezak",
+    "category": "hrana",
+    "easy": "biftek",
+    "easy_sim": 0.8505,
+    "medium": "kotlet",
+    "medium_sim": 0.5262,
+    "hard": "file",
+    "hard_sim": 0.2923
+  },
+  {
+    "word": "kobasica",
+    "category": "hrana",
+    "easy": "hrenovka",
+    "easy_sim": 0.732,
+    "medium": "čvarci",
+    "medium_sim": 0.569,
+    "hard": "sudžuk",
+    "hard_sim": 0.3438
+  },
+  {
+    "word": "pica",
+    "category": "hrana",
+    "easy": "pita",
+    "easy_sim": 0.7696,
+    "medium": "lepinja",
+    "medium_sim": 0.5965,
+    "hard": "flatbred",
+    "hard_sim": 0.3022
+  },
+  {
+    "word": "puter",
+    "category": "hrana",
+    "easy": "namaz",
+    "easy_sim": 0.8153,
+    "medium": "mast",
+    "medium_sim": 0.5675,
+    "hard": "margarin",
+    "hard_sim": 0.4009
+  },
+  {
+    "word": "med",
+    "category": "hrana",
+    "easy": "džem",
+    "easy_sim": 0.803,
+    "medium": "sirup",
+    "medium_sim": 0.5154,
+    "hard": "nektar",
+    "hard_sim": 0.4342
+  },
+  {
+    "word": "kafa",
+    "category": "piće",
+    "easy": "espreso",
+    "easy_sim": 0.679,
+    "medium": "mokka",
+    "medium_sim": 0.4846,
+    "hard": "latte",
+    "hard_sim": 0.3254
+  },
+  {
+    "word": "čaj",
+    "category": "piće",
+    "easy": "čaj od kamilice",
+    "easy_sim": 0.945,
+    "medium": "tisane",
+    "medium_sim": 0.4358,
+    "hard": "oolong",
+    "hard_sim": 0.3218
+  },
+  {
+    "word": "sok",
+    "category": "piće",
+    "easy": "osveženje",
+    "easy_sim": 0.781,
+    "medium": "smuti",
+    "medium_sim": 0.585,
+    "hard": "nektar",
+    "hard_sim": 0.3544
+  },
+  {
+    "word": "pivo",
+    "category": "piće",
+    "easy": "craft pivo",
+    "easy_sim": 0.7268,
+    "medium": "lager",
+    "medium_sim": 0.415,
+    "hard": "stout",
+    "hard_sim": 0.3296
+  },
+  {
+    "word": "vino",
+    "category": "piće",
+    "easy": "šampanjac",
+    "easy_sim": 0.8192,
+    "medium": "šampanjac",
+    "medium_sim": 0.8192,
+    "hard": "merlot",
+    "hard_sim": 0.3129
+  },
+  {
+    "word": "mleko",
+    "category": "piće",
+    "easy": "mlečni napitak",
+    "easy_sim": 0.9178,
+    "medium": "surutka",
+    "medium_sim": 0.3483,
+    "hard": "pavlaka",
+    "hard_sim": 0.2974
+  },
+  {
+    "word": "koktel",
+    "category": "piće",
+    "easy": "mešano piće",
+    "easy_sim": 0.8564,
+    "medium": "šejk",
+    "medium_sim": 0.5726,
+    "hard": "aperitiv",
+    "hard_sim": 0.3788
+  },
+  {
+    "word": "fudbal",
+    "category": "sport",
+    "easy": "mali fudbal",
+    "easy_sim": 0.8715,
+    "medium": "nogomet",
+    "medium_sim": 0.7137,
+    "hard": "rukomet",
+    "hard_sim": 0.3768
+  },
+  {
+    "word": "plivanje",
+    "category": "sport",
+    "easy": "vodeni sport",
+    "easy_sim": 0.7906,
+    "medium": "snorkeling",
+    "medium_sim": 0.5819,
+    "hard": "ronjenje",
+    "hard_sim": 0.4203
+  },
+  {
+    "word": "boks",
+    "category": "sport",
+    "easy": "sparovanje",
+    "easy_sim": 0.5859,
+    "medium": "rvanje",
+    "medium_sim": 0.5628,
+    "hard": "kickboks",
+    "hard_sim": 0.3328
+  },
+  {
+    "word": "biciklizam",
+    "category": "sport",
+    "easy": "vožnja bicikla",
+    "easy_sim": 0.9161,
+    "medium": "trke",
+    "medium_sim": 0.4254,
+    "hard": "touring",
+    "hard_sim": 0.3888
+  },
+  {
+    "word": "tenis",
+    "category": "sport",
+    "easy": "badminton",
+    "easy_sim": 0.8379,
+    "medium": "pickleball",
+    "medium_sim": 0.4082,
+    "hard": "squash",
+    "hard_sim": 0.3407
+  },
+  {
+    "word": "skijanje",
+    "category": "sport",
+    "easy": "nordijsko skijanje",
+    "easy_sim": 0.9469,
+    "medium": "klizanje",
+    "medium_sim": 0.4277,
+    "hard": "sanjkanje",
+    "hard_sim": 0.2969
+  },
+  {
+    "word": "penjanje",
+    "category": "aktivnost",
+    "easy": "uspinjanje",
+    "easy_sim": 0.8195,
+    "medium": "skaliranje",
+    "medium_sim": 0.5457,
+    "hard": "skaliranje",
+    "hard_sim": 0.5457
+  },
+  {
+    "word": "jedrenje",
+    "category": "aktivnost",
+    "easy": "plovidba",
+    "easy_sim": 0.8071,
+    "medium": "krstarenje",
+    "medium_sim": 0.5722,
+    "hard": "krstarenje",
+    "hard_sim": 0.5722
+  },
+  {
+    "word": "ribolov",
+    "category": "aktivnost",
+    "easy": "lov na ribu",
+    "easy_sim": 0.872,
+    "medium": "lov na ribu",
+    "medium_sim": 0.872,
+    "hard": "troling",
+    "hard_sim": 0.3122
+  },
+  {
+    "word": "planinarenje",
+    "category": "aktivnost",
+    "easy": "hodanje",
+    "easy_sim": 0.6443,
+    "medium": "izlet",
+    "medium_sim": 0.5798,
+    "hard": "ture",
+    "hard_sim": 0.4237
+  },
+  {
+    "word": "ples",
+    "category": "aktivnost",
+    "easy": "folk",
+    "easy_sim": 0.7847,
+    "medium": "koreografija",
+    "medium_sim": 0.6,
+    "hard": "kretanje uz muziku",
+    "hard_sim": 0.4343
+  },
+  {
+    "word": "rvanje",
+    "category": "sport",
+    "easy": "hvatanje",
+    "easy_sim": 0.7987,
+    "medium": "sparovanje",
+    "medium_sim": 0.914,
+    "hard": "hvatanje",
+    "hard_sim": 0.7987
+  },
+  {
+    "word": "streljaštvo",
+    "category": "sport",
+    "easy": "gađanje lukom",
+    "easy_sim": 0.6315,
+    "medium": "gađanje metom",
+    "medium_sim": 0.5836,
+    "hard": "marksmanstvo",
+    "hard_sim": 0.4025
+  },
+  {
+    "word": "gimnastika",
+    "category": "sport",
+    "easy": "aerobik",
+    "easy_sim": 0.6755,
+    "medium": "prevrtanje",
+    "medium_sim": 0.489,
+    "hard": "kalistenics",
+    "hard_sim": 0.3084
+  },
+  {
+    "word": "surfovanje",
+    "category": "sport",
+    "easy": "vožnja talasa",
+    "easy_sim": 0.7446,
+    "medium": "veslanje",
+    "medium_sim": 0.5804,
+    "hard": "kitesurfing",
+    "hard_sim": 0.4684
+  },
+  {
+    "word": "trčanje",
+    "category": "aktivnost",
+    "easy": "sprint",
+    "easy_sim": 0.868,
+    "medium": "kasanje",
+    "medium_sim": 0.5339,
+    "hard": "džoging",
+    "hard_sim": 0.5257
+  },
+  {
+    "word": "veslanje",
+    "category": "aktivnost",
+    "easy": "kajakaštvo",
+    "easy_sim": 0.7404,
+    "medium": "skullovanje",
+    "medium_sim": 0.5297,
+    "hard": "skullovanje",
+    "hard_sim": 0.5297
+  },
+  {
+    "word": "golf",
+    "category": "sport",
+    "easy": "disk golf",
+    "easy_sim": 0.8208,
+    "medium": "udaranje palicom",
+    "medium_sim": 0.3993,
+    "hard": "čipovanje",
+    "hard_sim": 0.2092
+  },
+  {
+    "word": "košarka",
+    "category": "sport",
+    "easy": "ulična košarka",
+    "easy_sim": 0.8594,
+    "medium": "hoops",
+    "medium_sim": 0.52,
+    "hard": "trojka",
+    "hard_sim": 0.3945
+  },
+  {
+    "word": "odbojka",
+    "category": "sport",
+    "easy": "plažna odbojka",
+    "easy_sim": 0.8693,
+    "medium": "rukomet",
+    "medium_sim": 0.5402,
+    "hard": "spike ball",
+    "hard_sim": 0.2444
+  },
+  {
+    "word": "lav",
+    "category": "životinja",
+    "easy": "lavica",
+    "easy_sim": 0.8795,
+    "medium": "tigar",
+    "medium_sim": 0.5758,
+    "hard": "mačka",
+    "hard_sim": 0.2741
+  },
+  {
+    "word": "orao",
+    "category": "životinja",
+    "easy": "soko",
+    "easy_sim": 0.7262,
+    "medium": "jastreb",
+    "medium_sim": 0.5866,
+    "hard": "ptica grabljivica",
+    "hard_sim": 0.2999
+  },
+  {
+    "word": "ajkula",
+    "category": "životinja",
+    "easy": "riba morski pas",
+    "easy_sim": 0.7673,
+    "medium": "tuna",
+    "medium_sim": 0.5336,
+    "hard": "sabljarka",
+    "hard_sim": 0.3696
+  },
+  {
+    "word": "slon",
+    "category": "životinja",
+    "easy": "nilski konj",
+    "easy_sim": 0.6694,
+    "medium": "mamut",
+    "medium_sim": 0.539,
+    "hard": "hipopotam",
+    "hard_sim": 0.3428
+  },
+  {
+    "word": "vuk",
+    "category": "životinja",
+    "easy": "kojot",
+    "easy_sim": 0.6487,
+    "medium": "lisica",
+    "medium_sim": 0.586,
+    "hard": "pas",
+    "hard_sim": 0.5432
+  },
+  {
+    "word": "konj",
+    "category": "životinja",
+    "easy": "poni",
+    "easy_sim": 0.8468,
+    "medium": "pastuv",
+    "medium_sim": 0.4548,
+    "hard": "ždrebe",
+    "hard_sim": 0.3549
+  },
+  {
+    "word": "delfin",
+    "category": "životinja",
+    "easy": "morska krava",
+    "easy_sim": 0.7576,
+    "medium": "orca",
+    "medium_sim": 0.3267,
+    "hard": "kit",
+    "hard_sim": 0.2067
+  },
+  {
+    "word": "pingvin",
+    "category": "životinja",
+    "easy": "patka",
+    "easy_sim": 0.6098,
+    "medium": "patka",
+    "medium_sim": 0.6098,
+    "hard": "gusak",
+    "hard_sim": 0.312
+  },
+  {
+    "word": "krokodil",
+    "category": "životinja",
+    "easy": "reptil",
+    "easy_sim": 0.7396,
+    "medium": "gušter",
+    "medium_sim": 0.4429,
+    "hard": "geko",
+    "hard_sim": 0.2001
+  },
+  {
+    "word": "sova",
+    "category": "životinja",
+    "easy": "sokol",
+    "easy_sim": 0.8596,
+    "medium": "noćna ptica",
+    "medium_sim": 0.48,
+    "hard": "noćna ptica",
+    "hard_sim": 0.48
+  },
+  {
+    "word": "medved",
+    "category": "životinja",
+    "easy": "mrki medved",
+    "easy_sim": 0.9341,
+    "medium": "grizli",
+    "medium_sim": 0.5886,
+    "hard": "rosomah",
+    "hard_sim": 0.462
+  },
+  {
+    "word": "lisica",
+    "category": "životinja",
+    "easy": "jazavac",
+    "easy_sim": 0.8512,
+    "medium": "kuna",
+    "medium_sim": 0.6492,
+    "hard": "kojot",
+    "hard_sim": 0.4296
+  },
+  {
+    "word": "zec",
+    "category": "životinja",
+    "easy": "zečić",
+    "easy_sim": 0.8156,
+    "medium": "kunić",
+    "medium_sim": 0.5687,
+    "hard": "divlji zec",
+    "hard_sim": 0.4316
+  },
+  {
+    "word": "zmija",
+    "category": "životinja",
+    "easy": "zmaj",
+    "easy_sim": 0.8264,
+    "medium": "gušter",
+    "medium_sim": 0.46,
+    "hard": "poskok",
+    "hard_sim": 0.3855
+  },
+  {
+    "word": "gorila",
+    "category": "životinja",
+    "easy": "primat",
+    "easy_sim": 0.828,
+    "medium": "orangutan",
+    "medium_sim": 0.6727,
+    "hard": "babun",
+    "hard_sim": 0.38
+  },
+  {
+    "word": "flamingo",
+    "category": "životinja",
+    "easy": "pelikan",
+    "easy_sim": 0.504,
+    "medium": "pelikan",
+    "medium_sim": 0.504,
+    "hard": "roda",
+    "hard_sim": 0.1953
+  },
+  {
+    "word": "leopard",
+    "category": "životinja",
+    "easy": "panter",
+    "easy_sim": 0.7319,
+    "medium": "tigar",
+    "medium_sim": 0.5891,
+    "hard": "ocelot",
+    "hard_sim": 0.2907
+  },
+  {
+    "word": "kornjača",
+    "category": "životinja",
+    "easy": "kopnena kornjača",
+    "easy_sim": 0.9755,
+    "medium": "terrapin",
+    "medium_sim": 0.4937,
+    "hard": "oklop",
+    "hard_sim": 0.3297
+  },
+  {
+    "word": "papagaj",
+    "category": "životinja",
+    "easy": "ptica pevačica",
+    "easy_sim": 0.7957,
+    "medium": "papiga",
+    "medium_sim": 0.6542,
+    "hard": "ara",
+    "hard_sim": 0.2864
+  },
+  {
+    "word": "jelen",
+    "category": "životinja",
+    "easy": "irvas",
+    "easy_sim": 0.8806,
+    "medium": "irvas",
+    "medium_sim": 0.8806,
+    "hard": "divokoza",
+    "hard_sim": 0.75
+  }
+]
